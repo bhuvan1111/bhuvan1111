@@ -8,51 +8,60 @@ Aspiring AI Engineer | Python Developer | Generative AI Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Student;Python+Developer;Generative+AI+Enthusiast;Building+Real-World+Projects)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhuvan1111&style=flat-square)
-
 </div>
 
-
+---
 
 <h2>
-<span style="color:#58A6FF"><b>About</b></span>
+<span style="color:#58A6FF">About</span>
 </h2>
+
+<hr style="border:1px solid #58A6FF;">
 
 - B.Tech in Computer Science & Engineering (AI & ML)
 - Mohan Babu University
 - Tirupati, India
 - Aspiring AI Engineer
 
-
+---
 
 <h2>
-<span style="color:#58A6FF"><b>Skills</b></span>
+<span style="color:#3FB950">Skills</span>
 </h2>
 
-### **Languages**
+<hr style="border:1px solid #3FB950;">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Languages
 
-### **Frontend**
+Python • HTML • CSS • JavaScript
 
-HTML5 • CSS3 • JavaScript • Bootstrap
+### Frontend
 
-### **Database**
+HTML5 • CSS3 • Bootstrap • React.js
 
-MySQL
+### Backend
 
-### **Tools**
+Django
+
+### Database
+
+MySQL • SQL
+
+### AI & ML
+
+Artificial Intelligence • Machine Learning • Generative AI • NLP
+
+### Tools
 
 Git • GitHub • VS Code • Jupyter Notebook • Google Colab • AWS
 
-
+---
 
 <h2>
-<span style="color:#58A6FF"><b>GitHub Statistics</b></span>
+<span style="color:#A371F7">GitHub Statistics</span>
 </h2>
+
+<hr style="border:1px solid #A371F7;">
 
 <div align="center">
 
@@ -66,11 +75,13 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • AWS
 
 </div>
 
-
+---
 
 <h2>
-<span style="color:#58A6FF"><b>Projects</b></span>
+<span style="color:#F85149">Projects</span>
 </h2>
+
+<hr style="border:1px solid #F85149;">
 
 ### Weather App
 
@@ -85,94 +96,68 @@ HTML • CSS • JavaScript • Bootstrap
 
 Status: In Progress
 
-
+---
 
 <h2>
-<span style="color:#58A6FF"><b>Certifications</b></span>
+<span style="color:#D29922">Certifications</span>
 </h2>
 
-- Oracle Cloud Infrastructure 2025
+<hr style="border:1px solid #D29922;">
+
+- Oracle Cloud Infrastructure 2025  
   Certified AI Foundations Associate
 
-- Tata Forage
+- Tata Forage  
   GenAI Powered Data Analytics Job Simulation
 
-- Simplilearn
+- Simplilearn  
   Introduction To Generative AI
 
-
+---
 
 <h2>
-<span style="color:#58A6FF"><b>Currently Learning</b></span>
+<span style="color:#39C5CF">Currently Learning</span>
 </h2>
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Python
+<hr style="border:1px solid #39C5CF;">
+
+- AWS Cloud
 - SQL
-- AWS
+- Django
+- Natural Language Processing (NLP)
 - React.js
 
 ---
 
 <h2>
-<span style="color:#58A6FF"><b>Open To Collaborate</b></span>
+<span style="color:#58A6FF">Open To Collaborate</span>
 </h2>
+
+<hr style="border:1px solid #58A6FF;">
 
 - Open Source Projects
 - AI & ML Research Projects
 - Internship Opportunities
 - Freelance Projects
-- Technical Mentorship
 
 ---
 
 <h2>
-<span style="color:#58A6FF"><b>Connect</b></span>
+<span style="color:#58A6FF">Connect</span>
 </h2>
 
-<a href="https://github.com/bhuvan1111">
-GitHub
-</a>
+<hr style="border:1px solid #58A6FF;">
 
-<br>
+GitHub  
+https://github.com/bhuvan1111
 
-<a href="https://www.linkedin.com/in/ks-bhuvan-sai-7787b8327">
-LinkedIn
-</a>
+LinkedIn  
+https://www.linkedin.com/in/ks-bhuvan-sai-7787b8327
 
 ---
 
-<h2>
-<span style="color:#58A6FF"><b>GitHub Contribution</b></span>
-</h2>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan1111&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-<h2>
-<span style="color:#58A6FF"><b>Contribution Snake</b></span>
-</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bhuvan1111/bhuvan1111/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-
-<div align="center">
-
-⭐ Thanks for visiting my profile
-
-<br>
-
-Learning • Building • Growing
+⭐ Learning • Building • Growing
 
 </div>
