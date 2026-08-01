@@ -107,12 +107,10 @@ Status: In Progress
 <span style="color:#58A6FF"><b>Currently Learning</b></span>
 </h2>
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Python
+- AWS Cloud
 - SQL
-- AWS
+- Django
+- Natural Language Processing (NLP)
 - React.js
 
 ---
@@ -179,26 +177,3 @@ LinkedIn
 Learning • Building • Growing
 
 </div>
-K S Bhuvan Sai
-
-About
-
-Skills
-
-GitHub Statistics
-
-Projects
-
-Certifications
-
-Currently Learning
-
-Open To Collaborate
-
-Connect
-
-GitHub Contribution
-
-Contribution Snake
-
-Footer
