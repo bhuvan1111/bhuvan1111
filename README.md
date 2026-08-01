@@ -82,7 +82,7 @@ Status: In Progress
 
 ### Portfolio Website
 
-HTML • CSS • JavaScript • Bootstrap
+python • html5 • MySql • NumPy 
 
 Status: In Progress
 
