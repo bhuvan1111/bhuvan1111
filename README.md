@@ -12,11 +12,7 @@ Aspiring AI Engineer | Python Developer | Generative AI Enthusiast
 
 ---
 
-<h2>
-<span style="color:#58A6FF">About</span>
-</h2>
-
-<hr style="border:1px solid #58A6FF;">
+## About
 
 - B.Tech in Computer Science & Engineering (AI & ML)
 - Mohan Babu University
@@ -25,11 +21,7 @@ Aspiring AI Engineer | Python Developer | Generative AI Enthusiast
 
 ---
 
-<h2>
-<span style="color:#3FB950">Skills</span>
-</h2>
-
-<hr style="border:1px solid #3FB950;">
+## Skills
 
 ### Languages
 
@@ -57,11 +49,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • AWS
 
 ---
 
-<h2>
-<span style="color:#A371F7">GitHub Statistics</span>
-</h2>
-
-<hr style="border:1px solid #A371F7;">
+## GitHub Statistics
 
 <div align="center">
 
@@ -77,11 +65,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • AWS
 
 ---
 
-<h2>
-<span style="color:#F85149">Projects</span>
-</h2>
-
-<hr style="border:1px solid #F85149;">
+## Projects
 
 ### Weather App
 
@@ -98,11 +82,7 @@ Status: In Progress
 
 ---
 
-<h2>
-<span style="color:#D29922">Certifications</span>
-</h2>
-
-<hr style="border:1px solid #D29922;">
+## Certifications
 
 - Oracle Cloud Infrastructure 2025  
   Certified AI Foundations Associate
@@ -115,11 +95,7 @@ Status: In Progress
 
 ---
 
-<h2>
-<span style="color:#39C5CF">Currently Learning</span>
-</h2>
-
-<hr style="border:1px solid #39C5CF;">
+## Currently Learning
 
 - AWS Cloud
 - SQL
@@ -129,11 +105,7 @@ Status: In Progress
 
 ---
 
-<h2>
-<span style="color:#58A6FF">Open To Collaborate</span>
-</h2>
-
-<hr style="border:1px solid #58A6FF;">
+## Open To Collaborate
 
 - Open Source Projects
 - AI & ML Research Projects
@@ -142,11 +114,7 @@ Status: In Progress
 
 ---
 
-<h2>
-<span style="color:#58A6FF">Connect</span>
-</h2>
-
-<hr style="border:1px solid #58A6FF;">
+## Connect
 
 GitHub  
 https://github.com/bhuvan1111
